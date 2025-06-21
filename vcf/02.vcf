@@ -7,6 +7,6 @@ item1.X-ABLabel:
 TEL;TYPE=WORK:15555555555
 item3.ORG:A.E. Robinson
 item3.X-ABLabel:
-CATEGORIES:myContacts,business
+CATEGORIES: myContacts, business
 END:VCARD
 
